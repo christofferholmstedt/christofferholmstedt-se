@@ -4,3 +4,9 @@
 [submodule "wp-content/themes/roots"]
 	path = wp-content/themes/roots
 	url = https://github.com/roots/roots.git
+[submodule "wp-content/plugins/wp-piwik"]
+	path = wp-content/plugins/wp-piwik
+	url = https://github.com/wp-mirrors/wp-piwik
+[submodule "wp-content/plugins/wp-maintenance-mode"]
+	path = wp-content/plugins/wp-maintenance-mode
+	url = https://github.com/wp-plugins/wp-maintenance-mode.git
