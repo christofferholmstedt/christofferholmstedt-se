@@ -7,3 +7,6 @@
 [submodule "wp-content/plugins/wp-maintenance-mode"]
 	path = wp-content/plugins/wp-maintenance-mode
 	url = https://github.com/wp-plugins/wp-maintenance-mode.git
+[submodule "wp-content/plugins/antispam-bee"]
+	path = wp-content/plugins/antispam-bee
+	url = https://github.com/wp-plugins/antispam-bee
